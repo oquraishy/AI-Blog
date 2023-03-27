@@ -1,1 +1,1 @@
-# AI-Blog
+# figmas
